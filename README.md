@@ -1,4 +1,6 @@
-# 🐝 Mosquito test runner (WIP)
+# Mosquito test runner (WIP)
+
+![](./mosquito.svg)
 
 The simplest, smallest test runner I could thought about building.
 
