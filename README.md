@@ -1,6 +1,6 @@
 # Mosquito test runner (WIP)
 
-![](./mosquito.svg)
+<img src="./mosquito.svg" width="256" height="256" style="background-color: white">
 
 The simplest, smallest test runner I could thought about building.
 
